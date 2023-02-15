@@ -1,4 +1,4 @@
 # Readme lerntagebuch
 
 ## Inhaltsverzeichnis
-### Technische Grundlage #1
+### [Technische Grundlage #1](start.md)
