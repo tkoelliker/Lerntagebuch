@@ -1,3 +1,5 @@
-#Lerntagebuch Tabea Kölliker
+# Technische Grundlagen #1
 
-##Inhaltsverzeichnis
+Liebes Tagebuch
+
+Heute war der erste Unterrichtstag von BAIN.
